@@ -2048,5 +2048,16 @@
   "source": "migrado_fb",
   "priceOverride": null,
   "mlPriceOverride": null
+ },
+ "FONE-DE-OUVIDO-SEM-FIO-BLUETOOTH-AIRDOPES-ALPHA-BOAT-VERDE": {
+  "name": "Fone de Ouvido Sem Fio Bluetooth Airdopes Alpha boAt - Verde",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Fone de Ouvido Sem Fio Bluetooth Airdopes Alpha boAt - Verde",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-07-31T11:10:44.504841"
  }
 }
