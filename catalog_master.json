@@ -953,68 +953,6 @@
   "priceOverride": null,
   "mlPriceOverride": null
  },
- "FB-01": {
-  "name": "Patinete Elétrico Auxom 350W (seminovo, <10km)",
-  "imgs": [
-   "fotos/FB-01-1.jpg",
-   "fotos/FB-01-2.jpg",
-   "fotos/FB-01-3.jpg",
-   "fotos/FB-01-4.jpg",
-   "fotos/FB-01-5.jpg",
-   "fotos/FB-01-6.jpg",
-   "fotos/FB-01-7.jpg",
-   "fotos/FB-01-8.jpg",
-   "fotos/FB-01-9.jpg",
-   "fotos/FB-01-10.jpg"
-  ],
-  "desc": "Patinete elétrico Auxom 350W, praticamente zero uso (menos de 10 km). Dobrável.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-02": {
-  "name": "Xiaomi Redmi 6 64GB / 4GB Dual SIM - Dourado",
-  "imgs": [
-   "fotos/FB-02-1.jpg",
-   "fotos/FB-02-2.jpg",
-   "fotos/FB-02-3.jpg"
-  ],
-  "desc": "Smartphone Xiaomi Redmi 6, 64GB/4GB RAM, Dual SIM Global, dourado.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-03": {
-  "name": "MacBook Pro 2016 16GB 256GB Prata (usado)",
-  "imgs": [
-   "fotos/FB-03-1.jpg",
-   "fotos/FB-03-2.jpg",
-   "fotos/FB-03-3.jpg",
-   "fotos/FB-03-4.jpg",
-   "fotos/FB-03-5.jpg",
-   "fotos/FB-03-6.jpg",
-   "fotos/FB-03-7.jpg",
-   "fotos/FB-03-8.jpg",
-   "fotos/FB-03-9.jpg",
-   "fotos/FB-03-10.jpg"
-  ],
-  "desc": "MacBook Pro 2016, 16GB RAM, 256GB SSD, prata. Usado, funcionando.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-04": {
-  "name": "Kit Chaves 46 Peças Aço Cr-V com Maleta",
-  "imgs": [
-   "fotos/FB-04-1.jpg",
-   "fotos/FB-04-2.jpg",
-   "fotos/FB-04-3.jpg"
-  ],
-  "desc": "Kit 46 peças em aço Cr-V: catraca, soquetes e bits, com maleta.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
  "FB-05": {
   "name": "Samsung Galaxy S25 128GB - Seminovo",
   "imgs": [
@@ -1029,116 +967,6 @@
    "fotos/FB-05-9.jpg"
   ],
   "desc": "Samsung Galaxy S25 128GB, seminovo, completo. Jet Black.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-06": {
-  "name": "iPhone 14 128GB Midnight - 84% bateria",
-  "imgs": [
-   "fotos/FB-06-1.jpg",
-   "fotos/FB-06-2.jpg",
-   "fotos/FB-06-3.jpg",
-   "fotos/FB-06-4.jpg",
-   "fotos/FB-06-5.jpg",
-   "fotos/FB-06-6.jpg",
-   "fotos/FB-06-7.jpg",
-   "fotos/FB-06-8.jpg",
-   "fotos/FB-06-9.jpg"
-  ],
-  "desc": "iPhone 14 128GB Midnight (preto), saúde da bateria 84%.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-07": {
-  "name": "Jogo de Panelas 10 Peças Antiaderente Coffee",
-  "imgs": [
-   "fotos/FB-07-1.jpg",
-   "fotos/FB-07-2.jpg",
-   "fotos/FB-07-3.jpg",
-   "fotos/FB-07-4.jpg",
-   "fotos/FB-07-5.jpg",
-   "fotos/FB-07-6.jpg"
-  ],
-  "desc": "Jogo de panelas 10 peças antiaderente, cor coffee/cappuccino.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-08": {
-  "name": "Parafusadeira/Furadeira WAP 12V BPF c/ Maleta",
-  "imgs": [
-   "fotos/FB-08-1.jpg",
-   "fotos/FB-08-2.jpg",
-   "fotos/FB-08-3.jpg",
-   "fotos/FB-08-4.jpg",
-   "fotos/FB-08-5.jpg",
-   "fotos/FB-08-6.jpg",
-   "fotos/FB-08-7.jpg"
-  ],
-  "desc": "Parafusadeira e furadeira WAP 12V Li-Ion, carregador bivolt, maleta e kit.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-09": {
-  "name": "Apple AirPods 4 (lacrado)",
-  "imgs": [
-   "fotos/FB-09-1.jpg",
-   "fotos/FB-09-2.jpg",
-   "fotos/FB-09-3.jpg",
-   "fotos/FB-09-4.jpg",
-   "fotos/FB-09-5.jpg",
-   "fotos/FB-09-6.jpg",
-   "fotos/FB-09-7.jpg",
-   "fotos/FB-09-8.jpg"
-  ],
-  "desc": "Apple AirPods 4, novo e lacrado.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-10": {
-  "name": "Console Retrô R36S +10.000 Jogos (novo)",
-  "imgs": [
-   "fotos/FB-10-1.jpg",
-   "fotos/FB-10-2.jpg",
-   "fotos/FB-10-3.jpg",
-   "fotos/FB-10-4.jpg",
-   "fotos/FB-10-5.jpg",
-   "fotos/FB-10-6.jpg",
-   "fotos/FB-10-7.jpg",
-   "fotos/FB-10-8.jpg",
-   "fotos/FB-10-9.jpg",
-   "fotos/FB-10-10.jpg"
-  ],
-  "desc": "Console retrô portátil R36S com +10.000 jogos pré-instalados. Novo.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-11": {
-  "name": "Fone Lenovo Thinkplus XT88 TWS Branco (lacrado)",
-  "imgs": [
-   "fotos/FB-11-1.jpg",
-   "fotos/FB-11-2.jpg",
-   "fotos/FB-11-3.jpg"
-  ],
-  "desc": "Fone Bluetooth Lenovo Thinkplus XT88 TWS, branco, novo lacrado.",
-  "source": "fb",
-  "priceOverride": null,
-  "mlPriceOverride": null
- },
- "FB-12": {
-  "name": "Smartwatch Zeblaze BTalk Plus 2.03\" (novo)",
-  "imgs": [
-   "fotos/FB-12-1.jpg",
-   "fotos/FB-12-2.jpg",
-   "fotos/FB-12-3.jpg",
-   "fotos/FB-12-4.jpg"
-  ],
-  "desc": "Smartwatch Zeblaze BTalk Plus, tela 2.03\", chamadas Bluetooth. Novo.",
   "source": "fb",
   "priceOverride": null,
   "mlPriceOverride": null
@@ -2195,5 +2023,30 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-30T13:59:03.062864"
+ },
+ "FONE-LENOVO-THINKPLUS-XT88-BRANCO": {
+  "name": "Fone Lenovo Thinkplus XT88 TWS Branco",
+  "imgs": [
+   "fotos/FB-11-1.jpg",
+   "fotos/FB-11-2.jpg",
+   "fotos/FB-11-3.jpg"
+  ],
+  "desc": "Fone Bluetooth Lenovo Thinkplus XT88 TWS, branco, novo lacrado.",
+  "source": "migrado_fb",
+  "priceOverride": null,
+  "mlPriceOverride": null
+ },
+ "SMARTWATCH-ZEBLAZE-BTALK-PLUS": {
+  "name": "Smartwatch Zeblaze BTalk Plus 2.03\"",
+  "imgs": [
+   "fotos/FB-12-1.jpg",
+   "fotos/FB-12-2.jpg",
+   "fotos/FB-12-3.jpg",
+   "fotos/FB-12-4.jpg"
+  ],
+  "desc": "Smartwatch Zeblaze BTalk Plus, tela 2.03\", chamadas Bluetooth. Novo.",
+  "source": "migrado_fb",
+  "priceOverride": null,
+  "mlPriceOverride": null
  }
 }
