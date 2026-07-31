@@ -2059,5 +2059,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-31T11:10:44.504841"
+ },
+ "LIFTNESS-BICICLETA-ERGOMETRICA-LIFTNESS-SPINNING-X11-COR-PRE": {
+  "name": "Liftness Bicicleta Ergométrica Liftness Spinning X11 Cor Preto/vermelho",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Liftness Bicicleta Ergométrica Liftness Spinning X11 Cor Preto/vermelho",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-07-31T11:39:53.165501"
  }
 }
