@@ -2070,5 +2070,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-31T11:39:53.165501"
+ },
+ "TECLADO-MECANICO-AKKO-MODELO-3068S-BRANCO-SWITH-ORANGE": {
+  "name": "TECLADO MECANICO AKKO MODELO 3068S BRANCO SWITH ORANGE",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "TECLADO MECANICO AKKO MODELO 3068S BRANCO SWITH ORANGE",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-07-31T14:01:19.381303"
  }
 }
