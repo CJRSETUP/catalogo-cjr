@@ -2081,5 +2081,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-31T14:01:19.381303"
+ },
+ "AMPLIFICADOR-CONTRABAIXO-LANEY": {
+  "name": "Amplificador Contrabaixo Laney",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Amplificador Contrabaixo Laney",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:07:59.715958"
  }
 }
