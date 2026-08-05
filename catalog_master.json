@@ -2105,5 +2105,49 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T08:08:16.102895"
+ },
+ "FRITADEIRA-ELETRICA-AIR-FRY-ELGIN-3-5-LITROS-PRETO-220V-PRET": {
+  "name": "Fritadeira Elétrica Air Fry Elgin 3,5 Litros Preto 220v Preto 220v",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Fritadeira Elétrica Air Fry Elgin 3,5 Litros Preto 220v Preto 220v",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:39:36.106684"
+ },
+ "TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK": {
+  "name": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Preto, NK68-BK",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Preto, NK68-BK",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:39:47.241186"
+ },
+ "CARREGADOR-IPHONE-TURBO-20W-FONTE-CABO-USB-C-LIGHTNING-25W-F": {
+  "name": "Carregador iPhone Turbo 20W Fonte + Cabo USB-C Lightning/25w fonte+cabo Tipo-C",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Carregador iPhone Turbo 20W Fonte + Cabo USB-C Lightning/25w fonte+cabo Tipo-C",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:40:03.625704"
+ },
+ "KIT-JOGO-FERRAMENTA-CHAVE-MAGNETICA-PRECISAO-24-PECAS-PEQUEN": {
+  "name": "Kit Jogo Ferramenta Chave Magnética Precisão 24 Peças Pequenos Reparos Celular PC Notebook Óculos",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Kit Jogo Ferramenta Chave Magnética Precisão 24 Peças Pequenos Reparos Celular PC Notebook Óculos",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:40:17.863942"
  }
 }
