@@ -2164,5 +2164,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T11:08:28.237747"
+ },
+ "PLACA-DE-VIDEO-VEINEDA-GRAPHICS-CARDS-RX-580-8GB-2048SP-GAMI": {
+  "name": "Placa De Video Veineda Graphics Cards RX 580 8GB 2048SP Gaming GDDR5 256Bit PCI Express 3.0 ×16 GPU rx580 8g",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Placa De Video Veineda Graphics Cards RX 580 8GB 2048SP Gaming GDDR5 256Bit PCI Express 3.0 ×16 GPU rx580 8g",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T13:40:44.295485"
  }
 }
