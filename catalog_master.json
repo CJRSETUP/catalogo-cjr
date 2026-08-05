@@ -2175,5 +2175,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T13:40:44.295485"
+ },
+ "VIENEDA-RX-580-8GB-2048SP-PRETA": {
+  "name": "VIENEDA RX 580 8GB 2048SP PRETA",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "VIENEDA RX 580 8GB 2048SP PRETA",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T14:40:49.035374"
  }
 }
