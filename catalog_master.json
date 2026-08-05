@@ -2120,10 +2120,14 @@
  "TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK": {
   "name": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Preto, NK68-BK",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "fotos/TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK-1.jpg",
+   "fotos/TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK-2.jpg",
+   "fotos/TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK-3.jpg",
+   "fotos/TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK-4.jpg",
+   "fotos/TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-PRETO-NK-5.jpg"
   ],
   "desc": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Preto, NK68-BK",
-  "source": "sem_foto",
+  "source": "foto_propria_drive",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T08:39:47.241186"
