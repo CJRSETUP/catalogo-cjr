@@ -2092,5 +2092,18 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T08:07:59.715958"
+ },
+ "CONTROLE-XBOX-WIRELESS-CARBON": {
+  "name": "Controle Xbox Wireless Carbon Black",
+  "imgs": [
+   "fotos/CONTROLE-XBOX-WIRELESS-CARBON-1.jpg",
+   "fotos/CONTROLE-XBOX-WIRELESS-CARBON-2.jpg",
+   "fotos/CONTROLE-XBOX-WIRELESS-CARBON-3.jpg"
+  ],
+  "desc": "Controle Xbox Wireless Carbon Black",
+  "source": "foto_propria_drive",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T08:08:16.102895"
  }
 }
