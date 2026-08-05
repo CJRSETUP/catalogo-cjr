@@ -2186,5 +2186,21 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T14:50:34.914720"
+ },
+ "WATER-COOLER-CM-MASTERLIQUID-2": {
+  "name": "Water Cooler CM MasterLiquid 240L White",
+  "imgs": [
+   "https://http2.mlstatic.com/D_648144-MLU74380100034_022024-F.jpg",
+   "https://http2.mlstatic.com/D_734491-MLU74380179112_022024-F.jpg",
+   "https://http2.mlstatic.com/D_787731-MLU74380100048_022024-F.jpg",
+   "https://http2.mlstatic.com/D_778085-MLU74379981758_022024-F.jpg",
+   "https://http2.mlstatic.com/D_952524-MLU74499770791_022024-F.jpg",
+   "https://http2.mlstatic.com/D_718162-MLU74499770795_022024-F.jpg"
+  ],
+  "desc": "Water Cooler CM MasterLiquid 240L White",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T15:02:23.947025"
  }
 }
