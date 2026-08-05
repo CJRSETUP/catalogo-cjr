@@ -2153,5 +2153,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T08:40:17.863942"
+ },
+ "SUPORTE-MONITOR-ZINNIA-NIMBO-P": {
+  "name": "Suporte Monitor Zinnia Nimbo Preto",
+  "imgs": [
+   "fotos/SUPORTE-MONITOR-ZINNIA-NIMBO-P-1.jpg"
+  ],
+  "desc": "Suporte Monitor Zinnia Nimbo Preto",
+  "source": "foto_propria_drive",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-05T11:08:28.237747"
  }
 }
