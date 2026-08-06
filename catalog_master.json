@@ -2202,5 +2202,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-05T15:02:23.947025"
+ },
+ "MEMORIA-RAM-KELYSTON-8GB-2400MHZ-DDR4-SEM-DISSIPADOR": {
+  "name": "MEMORIA RAM KELYSTON 8GB 2400MHZ DDR4 SEM DISSIPADOR",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "MEMORIA RAM KELYSTON 8GB 2400MHZ DDR4 SEM DISSIPADOR",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-06T14:11:34.686515"
  }
 }
