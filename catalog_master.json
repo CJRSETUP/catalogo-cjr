@@ -2213,5 +2213,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-06T14:11:34.686515"
+ },
+ "ASPIRADOR-DE-PO-PH1100AZ-AZUL-220V": {
+  "name": "Aspirador de po ph1100az Azul 220v",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Aspirador de po ph1100az Azul 220v",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-06T14:39:59.584976"
  }
 }
