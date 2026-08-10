@@ -2235,5 +2235,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-10T19:33:23.783010"
+ },
+ "CPU-RYZEN-7-5700X-OEM-AM4": {
+  "name": "CPU Ryzen 7 5700X OEM (AM4)",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "CPU Ryzen 7 5700X OEM (AM4)",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-10T19:33:40.753128"
  }
 }
