@@ -2224,5 +2224,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-06T14:39:59.584976"
+ },
+ "MOUSE-ATTACK-SHARK-X11-PRETO": {
+  "name": "Mouse Attack Shark X11 Preto",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse Attack Shark X11 Preto",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-10T19:33:23.783010"
  }
 }
