@@ -2239,10 +2239,16 @@
  "CPU-RYZEN-7-5700X-OEM-AM4": {
   "name": "CPU Ryzen 7 5700X OEM (AM4)",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "https://http2.mlstatic.com/D_799584-MLB92108782890_092025-F.jpg",
+   "https://http2.mlstatic.com/D_932195-MLB92108731808_092025-O.webp",
+   "https://http2.mlstatic.com/D_947377-MLB92108850928_092025-F.jpg",
+   "https://http2.mlstatic.com/D_835197-MLB85921343587_062025-F.jpg",
+   "https://http2.mlstatic.com/D_799258-MLB85612861702_062025-O.webp",
+   "https://http2.mlstatic.com/D_941232-MLB92513714385_092025-F.jpg",
+   "https://http2.mlstatic.com/D_856465-MLB92108564178_092025-F.jpg"
   ],
   "desc": "CPU Ryzen 7 5700X OEM (AM4)",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-10T19:33:40.753128"
