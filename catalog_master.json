@@ -2263,5 +2263,34 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-11T14:10:43.853564"
+ },
+ "MOUSE-SMAILWOLF-RS7-WIRELESS-GAMING-PAW3311-BRANCO": {
+  "name": "Mouse SMAILWOLF RS7 Wireless Gaming PAW3311 Branco",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse SMAILWOLF RS7 Wireless Gaming PAW3311 Branco",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-11T15:39:51.786246"
+ },
+ "TECLADO-MECANICO-AJAZZ-NK68-RAINBOW-SWITCH-VERMELHO-BRANCO-N": {
+  "name": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Branco, NK68-WH",
+  "imgs": [
+   "https://http2.mlstatic.com/D_621927-MLB112888177077_062026-F.jpg",
+   "https://http2.mlstatic.com/D_961248-MLB112887081851_062026-F.jpg",
+   "https://http2.mlstatic.com/D_808200-MLB112887081857_062026-F.jpg",
+   "https://http2.mlstatic.com/D_708302-MLB111788514174_062026-F.jpg",
+   "https://http2.mlstatic.com/D_641470-MLB112887052227_062026-F.jpg",
+   "https://http2.mlstatic.com/D_906157-MLB112887052233_062026-F.jpg",
+   "https://http2.mlstatic.com/D_690126-MLB111788514176_062026-F.jpg",
+   "https://http2.mlstatic.com/D_758835-MLB112888177087_062026-F.jpg"
+  ],
+  "desc": "Teclado Mecanico Ajazz NK68, Rainbow, Switch Vermelho, Branco, NK68-WH",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-11T15:40:10.246931"
  }
 }
