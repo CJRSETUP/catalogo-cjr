@@ -2292,5 +2292,38 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-11T15:40:10.246931"
+ },
+ "CADEIRA-ERGONOMICA-ASTRA-MESH-CINZA-ELEMENTS": {
+  "name": "Cadeira Ergonômica Astra Mesh Cinza Elements",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Cadeira Ergonômica Astra Mesh Cinza Elements",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-11T20:11:16.981276"
+ },
+ "FRITADEIRA-ELETRICA-WAFG2S-PROSDOCIMO-GRAND-5-2L-127V-PRETO": {
+  "name": "Fritadeira Eletrica Wafg2s Prosdocimo Grand 5,2L 127V Preto",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Fritadeira Eletrica Wafg2s Prosdocimo Grand 5,2L 127V Preto",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-11T20:11:26.625386"
+ },
+ "SMARTWATCH-HUAWEI-BAND-10": {
+  "name": "Smartwatch Huawei Band 10",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Smartwatch Huawei Band 10",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-11T20:11:38.345635"
  }
 }
