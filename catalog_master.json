@@ -1,16 +1,4 @@
 {
- "SUPORTE-BRANCO": {
-  "name": "Bancada Teste PC Open Frame Micro ATX Mini ITX PETG Branco",
-  "imgs": [
-   "https://http2.mlstatic.com/D_802845-MLB111914115017_052026-F.jpg",
-   "https://http2.mlstatic.com/D_853807-MLA111915453627_052026-F.jpg",
-   "https://http2.mlstatic.com/D_721422-MLB111915627909_052026-F.jpg"
-  ],
-  "desc": "Bancada de teste PC open frame Micro ATX/Mini ITX em PETG branco, suporta 5kg",
-  "source": "catalog",
-  "priceOverride": 68.91,
-  "mlPriceOverride": 72.54
- },
  "SUPORTE CINZA": {
   "name": "Bancada Teste PC Open Frame Micro ATX Mini ITX PETG Cinza",
   "imgs": [
