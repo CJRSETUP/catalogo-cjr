@@ -2420,5 +2420,27 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-14T13:39:50.371441"
+ },
+ "MOUSE-GAMER-SEM-FIO-AJAZZ-AJ139-V2-BRANCO": {
+  "name": "MOUSE GAMER SEM FIO AJAZZ AJ139 V2 BRANCO",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "MOUSE GAMER SEM FIO AJAZZ AJ139 V2 BRANCO",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T19:12:15.614743"
+ },
+ "BASEUS-STYLUS-LITE-PARA-IPAD": {
+  "name": "BASEUS STYLUS LITE PARA IPAD",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "BASEUS STYLUS LITE PARA IPAD",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T19:12:25.246992"
  }
 }
