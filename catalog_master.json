@@ -2398,5 +2398,27 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-14T09:12:21.016916"
+ },
+ "CONTROLE-GAMESIR-NOVA-LITE": {
+  "name": "Controle GameSir Nova Lite",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Controle GameSir Nova Lite",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T13:30:59.416231"
+ },
+ "CONTROLE-GAMER-FLYDIGI-DIREWOLF4-SEM-DOC-BRANCO": {
+  "name": "CONTROLE GAMER FLYDIGI DIREWOLF4 SEM DOC BRANCO",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "CONTROLE GAMER FLYDIGI DIREWOLF4 SEM DOC BRANCO",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T13:39:50.371441"
  }
 }
