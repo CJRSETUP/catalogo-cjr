@@ -2360,5 +2360,43 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-13T16:41:00.994946"
+ },
+ "FONTE-GIGABYTE-P650G-650W-80-G": {
+  "name": "Fonte Gigabyte P650G 650W 80+ Gold",
+  "imgs": [
+   "https://http2.mlstatic.com/D_657746-MLA99516678198_112025-F.jpg",
+   "https://http2.mlstatic.com/D_968705-MLA81131256242_122024-F.jpg",
+   "https://http2.mlstatic.com/D_672552-MLA91967831439_092025-F.jpg",
+   "https://http2.mlstatic.com/D_897454-MLA91568564496_092025-F.jpg",
+   "https://http2.mlstatic.com/D_753482-MLA91968275107_092025-O.webp",
+   "https://http2.mlstatic.com/D_919721-MLA91968215579_092025-F.jpg"
+  ],
+  "desc": "Fonte Gigabyte P650G 650W 80+ Gold",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T09:00:12.450310"
+ },
+ "MOUSE-GAMER-SEM-FIO-LOGITECH-G-PRO-X2-SUPERSTRIKE-LIGHTSPEED": {
+  "name": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED, 61g, Cliques Táteis Personalizáveis, USB-C, Preto e Branco",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED, 61g, Cliques Táteis Personalizáveis, USB-C, Preto e Branco",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T09:10:39.915681"
+ },
+ "FILTRO-DE-LINHA-ICLAMPER-ENERGIA-8-TOMADAS": {
+  "name": "Filtro De Linha iClamper Energia 8 Tomadas",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Filtro De Linha iClamper Energia 8 Tomadas",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-14T09:12:21.016916"
  }
 }
