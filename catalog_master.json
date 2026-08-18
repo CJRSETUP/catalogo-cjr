@@ -2442,5 +2442,29 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-14T19:12:25.246992"
+ },
+ "BANDAI-PVC-ONE-PIECE-ACTION-FIGURE-PARA-CRIANCAS-MINI-LUFFY": {
+  "name": "Bandai-PVC One Piece Action Figure para Crianças, Mini Luffy Gear",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Bandai-PVC One Piece Action Figure para Crianças, Mini Luffy Gear",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-18T11:10:38.559294"
+ },
+ "TECLADO-MECANICO-GAMER-AJAZZ-AK820-COM-FIO-PRETO-INGLES-US": {
+  "name": "Teclado Mecânico Gamer Ajazz Ak820 Com Fio Preto Inglês Us",
+  "imgs": [
+   "https://http2.mlstatic.com/D_968343-MLB113722717487_062026-F.jpg",
+   "https://http2.mlstatic.com/D_996614-MLB93536566800_102025-O.webp",
+   "https://http2.mlstatic.com/D_837596-MLB111788505684_062026-F.jpg"
+  ],
+  "desc": "Teclado Mecânico Gamer Ajazz Ak820 Com Fio Preto Inglês Us",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-18T11:11:19.353316"
  }
 }
