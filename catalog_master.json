@@ -2402,10 +2402,19 @@
  "CONTROLE-GAMESIR-NOVA-LITE": {
   "name": "Controle GameSir Nova Lite",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "https://http2.mlstatic.com/D_628100-MLA99480320238_112025-F.jpg",
+   "https://http2.mlstatic.com/D_706382-MLA89382428654_082025-F.jpg",
+   "https://http2.mlstatic.com/D_906881-MLA89749795689_082025-F.jpg",
+   "https://http2.mlstatic.com/D_875668-MLA89749874711_082025-F.jpg",
+   "https://http2.mlstatic.com/D_817006-MLA89749539087_082025-F.jpg",
+   "https://http2.mlstatic.com/D_692788-MLA89749607975_082025-F.jpg",
+   "https://http2.mlstatic.com/D_996817-MLA89749529203_082025-O.webp",
+   "https://http2.mlstatic.com/D_980206-MLA89749756239_082025-F.jpg",
+   "https://http2.mlstatic.com/D_829266-MLA89749696797_082025-F.jpg",
+   "https://http2.mlstatic.com/D_936127-MLA89749686875_082025-F.jpg"
   ],
   "desc": "Controle GameSir Nova Lite",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-14T13:30:59.416231"
