@@ -1963,10 +1963,14 @@
  "ADAPTADOR-WIFI-6-USB-AX1800": {
   "name": "Adaptador WiFi 6 USB AX1800",
   "imgs": [
-   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-1.jpg"
+   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-1.jpg",
+   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-2.jpg",
+   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-3.jpg",
+   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-4.jpg",
+   "fotos/ADAPTADOR-WIFI-6-USB-AX1800-5.jpg"
   ],
   "desc": "Adaptador WiFi 6 USB AX1800",
-  "source": "sem_foto",
+  "source": "foto_propria_drive",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-30T13:59:03.060373"
