@@ -2486,5 +2486,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-18T16:44:56.578116"
+ },
+ "MODELO-DE-CARRO-RC-COM-LUZ-LED-DK087-ORANGE-1B-FB": {
+  "name": "modelo de carro rc com luz led DK087 Orange 1B FB",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "modelo de carro rc com luz led DK087 Orange 1B FB",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-21T09:42:03.406106"
  }
 }
