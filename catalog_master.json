@@ -2501,5 +2501,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-21T09:42:03.406106"
+ },
+ "GPU-VEINEDA-RX-580-8GB-WHITE": {
+  "name": "GPU Veineda RX 580 8GB WHITE",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "GPU Veineda RX 580 8GB WHITE",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-24T10:11:22.442438"
  }
 }
