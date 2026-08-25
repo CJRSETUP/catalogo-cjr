@@ -2523,5 +2523,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-25T16:16:11.109401"
+ },
+ "MOUSE-ATTACK-SHARK-X11-BRANCO": {
+  "name": "Mouse Attack Shark X11 Branco",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse Attack Shark X11 Branco",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-25T16:38:12.673218"
  }
 }
