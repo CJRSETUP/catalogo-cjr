@@ -2512,5 +2512,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-24T10:11:22.442438"
+ },
+ "TECLADO-REDRAGON-DAK": {
+  "name": "Teclado Gamer Redragon Dark Rosa",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Teclado Gamer Redragon Dark Rosa",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-25T16:16:11.109401"
  }
 }
