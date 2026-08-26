@@ -2250,12 +2250,17 @@
  "MOUSE-ATTACK-SHARK-X11-PRETO": {
   "name": "Mouse Attack Shark X11 Preto",
   "imgs": [
-   "https://images9.kabum.com.br/produtos/fotos/sync_mirakl/688539/xlarge/Mouse-Gamer-Attack-Shark-X11-RGB-22000-DPI-Bluetooth-Preto_1783964958.jpg",
-   "https://images9.kabum.com.br/produtos/fotos/sync_mirakl/688539/xlarge/Mouse-Gamer-Attack-Shark-X11-RGB-22000-DPI-Bluetooth-Preto_1783964959.jpg",
-   "https://images9.kabum.com.br/produtos/fotos/sync_mirakl/688539/xlarge/Mouse-Gamer-Attack-Shark-X11-RGB-22000-DPI-Bluetooth-Preto_1783964960.jpg"
+   "https://http2.mlstatic.com/D_606816-MLA99489775010_112025-O.webp",
+   "https://http2.mlstatic.com/D_946702-MLA93407716812_092025-F.jpg",
+   "https://http2.mlstatic.com/D_819907-MLA93826507463_092025-F.jpg",
+   "https://http2.mlstatic.com/D_678403-MLA93407855174_092025-F.jpg",
+   "https://http2.mlstatic.com/D_844139-MLA93407410286_092025-F.jpg",
+   "https://http2.mlstatic.com/D_624044-MLA93407627462_092025-F.jpg",
+   "https://http2.mlstatic.com/D_694270-MLA93407795964_092025-F.jpg",
+   "https://http2.mlstatic.com/D_843471-MLA93826104305_092025-O.webp"
   ],
   "desc": "Mouse Attack Shark X11 Preto",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-10T19:33:23.783010"
