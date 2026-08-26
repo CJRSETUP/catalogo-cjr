@@ -2543,12 +2543,58 @@
  "MOUSE-ATTACK-SHARK-X11-BRANCO": {
   "name": "Mouse Attack Shark X11 Branco",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "https://http2.mlstatic.com/D_606816-MLA99489775010_112025-O.webp",
+   "https://http2.mlstatic.com/D_946702-MLA93407716812_092025-F.jpg",
+   "https://http2.mlstatic.com/D_819907-MLA93826507463_092025-F.jpg",
+   "https://http2.mlstatic.com/D_678403-MLA93407855174_092025-F.jpg",
+   "https://http2.mlstatic.com/D_844139-MLA93407410286_092025-F.jpg",
+   "https://http2.mlstatic.com/D_624044-MLA93407627462_092025-F.jpg",
+   "https://http2.mlstatic.com/D_694270-MLA93407795964_092025-F.jpg",
+   "https://http2.mlstatic.com/D_843471-MLA93826104305_092025-O.webp"
   ],
   "desc": "Mouse Attack Shark X11 Branco",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-25T16:38:12.673218"
+ },
+ "CPU-RYZEN-7-9700X-AM5": {
+  "name": "CPU Ryzen 7 9700X (AM5)",
+  "imgs": [
+   "https://http2.mlstatic.com/D_744796-MLB115142613424_082026-F.jpg",
+   "https://http2.mlstatic.com/D_680233-MLA115142530810_082026-O.webp",
+   "https://http2.mlstatic.com/D_663396-MLA115143261186_082026-F.jpg",
+   "https://http2.mlstatic.com/D_842411-MLA115143290290_082026-F.jpg",
+   "https://http2.mlstatic.com/D_605472-MLB116539352409_082026-O.webp",
+   "https://http2.mlstatic.com/D_666434-MLB115142819964_082026-F.jpg",
+   "https://http2.mlstatic.com/D_618114-MLB116538940961_082026-F.jpg"
+  ],
+  "desc": "CPU Ryzen 7 9700X (AM5)",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-26T18:29:46.394047"
+ },
+ "MONITOR-GAMER-TCL-25-POLEGADAS-QLED-MINI-LED-FULL-HD-G64-300": {
+  "name": "Monitor Gamer TCL 25\" QLED Mini LED 300Hz",
+  "imgs": [
+   "https://http2.mlstatic.com/D_741209-MLA115307440470_082026-F.jpg",
+   "https://http2.mlstatic.com/D_931090-MLA115307783610_082026-O.webp",
+   "https://http2.mlstatic.com/D_838869-MLA94567486761_102025-F.jpg",
+   "https://http2.mlstatic.com/D_796911-MLA94138863486_102025-F.jpg",
+   "https://http2.mlstatic.com/D_741125-MLA94138824018_102025-F.jpg",
+   "https://http2.mlstatic.com/D_946347-MLA94567209239_102025-F.jpg",
+   "https://http2.mlstatic.com/D_881311-MLA94139129524_102025-F.jpg",
+   "https://http2.mlstatic.com/D_871548-MLA94567358211_102025-F.jpg",
+   "https://http2.mlstatic.com/D_933970-MLA94139031612_102025-F.jpg",
+   "https://http2.mlstatic.com/D_765637-MLA114993186076_082026-F.jpg",
+   "https://http2.mlstatic.com/D_876441-MLA116378048567_082026-F.jpg",
+   "https://http2.mlstatic.com/D_913157-MLA116378281313_082026-F.jpg"
+  ],
+  "desc": "Monitor Gamer TCL 25\" QLED Mini LED 300Hz",
+  "source": "auto_ml",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-26T18:29:56.427779"
  }
 }
