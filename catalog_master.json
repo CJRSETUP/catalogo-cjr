@@ -977,10 +977,17 @@
  "FONE-LENOVO-GM2-PRO-TWS-PRETO": {
   "name": "Fone Lenovo GM2 Pro TWS Preto",
   "imgs": [
-   "fotos/FONE-LENOVO-GM2-PRO-TWS-PRETO-1.jpg"
+   "https://http2.mlstatic.com/D_720443-MLA100049283551_122025-F.jpg",
+   "https://http2.mlstatic.com/D_802525-MLU77395561095_072024-F.jpg",
+   "https://http2.mlstatic.com/D_992541-MLA111201597649_052026-F.jpg",
+   "https://http2.mlstatic.com/D_681399-MLU77395779405_072024-O.webp",
+   "https://http2.mlstatic.com/D_680559-MLU77395561103_072024-O.webp",
+   "https://http2.mlstatic.com/D_876205-MLU77182118932_072024-F.jpg",
+   "https://http2.mlstatic.com/D_945684-MLU77395779411_072024-F.jpg",
+   "https://http2.mlstatic.com/D_853203-MLU77395759593_072024-F.jpg"
   ],
   "desc": "Fone Lenovo GM2 Pro TWS Preto",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-30T13:59:02.980816"
@@ -2286,10 +2293,14 @@
  "MOUSE-SMAILWOLF-RS7-WIRELESS-GAMING-PAW3311-BRANCO": {
   "name": "Mouse SMAILWOLF RS7 Wireless Gaming PAW3311 Branco",
   "imgs": [
-   "https://famerbvetdbklizutxaj.supabase.co/storage/v1/object/public/products/ml_imported_1782304415146_1.webp"
+   "https://http2.mlstatic.com/D_709680-MLA104001111090_012026-F.jpg",
+   "https://http2.mlstatic.com/D_747583-MLA104539321971_012026-F.jpg",
+   "https://http2.mlstatic.com/D_720267-MLA104000902800_012026-O.webp",
+   "https://http2.mlstatic.com/D_815615-MLA104539440983_012026-F.jpg",
+   "https://http2.mlstatic.com/D_862976-MLA104001111116_012026-F.jpg"
   ],
   "desc": "Mouse SMAILWOLF RS7 Wireless Gaming PAW3311 Branco",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-11T15:39:51.786246"
@@ -2437,10 +2448,15 @@
  "MOUSE-GAMER-SEM-FIO-AJAZZ-AJ139-V2-BRANCO": {
   "name": "MOUSE GAMER SEM FIO AJAZZ AJ139 V2 BRANCO",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "https://http2.mlstatic.com/D_986835-MLA106304182426_022026-F.jpg",
+   "https://http2.mlstatic.com/D_980748-MLA106302965234_022026-F.jpg",
+   "https://http2.mlstatic.com/D_836517-MLA106303382252_022026-F.jpg",
+   "https://http2.mlstatic.com/D_623469-MLA106933877965_022026-F.jpg",
+   "https://http2.mlstatic.com/D_995671-MLA106933757699_022026-F.jpg",
+   "https://http2.mlstatic.com/D_977813-MLA106304152726_022026-F.jpg"
   ],
   "desc": "MOUSE GAMER SEM FIO AJAZZ AJ139 V2 BRANCO",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-14T19:12:15.614743"
