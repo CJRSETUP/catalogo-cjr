@@ -2079,12 +2079,15 @@
  "TECLADO-MECANICO-AKKO-MODELO-3068S-BRANCO-SWITH-ORANGE": {
   "name": "TECLADO MECANICO AKKO MODELO 3068S BRANCO SWITH ORANGE",
   "imgs": [
-   "https://images4.kabum.com.br/produtos/fotos/sync_mirakl/657164/xlarge/Teclado-Mec-nico-Akko-3068s-Branco-Abnt2-Switch-Akko-Orange_1742496643.jpg",
-   "https://images4.kabum.com.br/produtos/fotos/sync_mirakl/657164/xlarge/Teclado-Mec-nico-Akko-3068s-Branco-Abnt2-Switch-Akko-Orange_1742496644.jpg",
-   "https://images4.kabum.com.br/produtos/fotos/sync_mirakl/657164/xlarge/Teclado-Mec-nico-Akko-3068s-Branco-Abnt2-Switch-Akko-Orange_1742496646.jpg"
+   "https://http2.mlstatic.com/D_642313-MLA91280289203_082025-O.webp",
+   "https://http2.mlstatic.com/D_933001-MLA91280525521_082025-F.jpg",
+   "https://http2.mlstatic.com/D_808739-MLA90889534484_082025-F.jpg",
+   "https://http2.mlstatic.com/D_899856-MLA91280525535_082025-F.jpg",
+   "https://http2.mlstatic.com/D_729411-MLA91280240197_082025-F.jpg",
+   "https://http2.mlstatic.com/D_737492-MLA115217845894_082026-F.jpg"
   ],
   "desc": "TECLADO MECANICO AKKO MODELO 3068S BRANCO SWITH ORANGE",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-31T14:01:19.381303"
