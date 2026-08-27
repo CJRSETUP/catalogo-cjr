@@ -2601,5 +2601,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-26T18:29:56.427779"
+ },
+ "MOUSE-GAMER-SEM-FIO-LEVE-ATTACK-SHARK-R1-VERMELHO": {
+  "name": "Mouse Gamer Sem Fio Leve Attack Shark R1 VERMELHO",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse Gamer Sem Fio Leve Attack Shark R1 VERMELHO",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-27T14:10:29.638434"
  }
 }
