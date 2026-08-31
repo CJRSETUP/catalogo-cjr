@@ -2615,5 +2615,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-27T14:10:29.638434"
+ },
+ "MEMORIA-RAM-KELYSTON-8GB-2133MHZ-DDR4-SEM-DISSIPADOR": {
+  "name": "MEMORIA RAM KELYSTON 8GB 2133MHZ DDR4 SEM DISSIPADOR",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "MEMORIA RAM KELYSTON 8GB 2133MHZ DDR4 SEM DISSIPADOR",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-08-31T19:37:40.958611"
  }
 }
