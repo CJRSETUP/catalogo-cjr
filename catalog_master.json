@@ -2626,5 +2626,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-31T19:37:40.958611"
+ },
+ "MOUSE-ATTACK-SHARK-X11-BASE-RED": {
+  "name": "Mouse Attack Shark X11 Base Red",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Mouse Attack Shark X11 Base Red",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-09-04T10:52:33.854432"
  }
 }
