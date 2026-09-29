@@ -1422,10 +1422,12 @@
  "PLACA-MAE-MSI-PRO-A620M-B-EVO-AMD-AM5-MATX-DDR5": {
   "name": "Placa-Mae MSI PRO A620M-B EVO AMD AM5 mATX DDR5",
   "imgs": [
-   "fotos/PLACA-MAE-MSI-PRO-A620M-B-EVO-AMD-AM5-MATX-DDR5-1.jpg"
+   "https://http2.mlstatic.com/D_993555-MLB115259879540_082026-F.jpg",
+   "https://http2.mlstatic.com/D_937835-MLA114554098927_072026-F.jpg",
+   "https://http2.mlstatic.com/D_906526-MLA114549073945_072026-F.jpg"
   ],
   "desc": "Placa-Mae MSI PRO A620M-B EVO AMD AM5 mATX DDR5",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-07-30T13:59:03.015924"
@@ -2650,5 +2652,16 @@
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-09-04T10:52:33.854432"
+ },
+ "PLACA-DE-VIDEO-AMD-RX-580-8GB-MOUGOL-GDDR5-2048SP-BRANCA": {
+  "name": "Placa De Vídeo Amd Rx 580 8gb Mougol Gddr5 2048sp Branca",
+  "imgs": [
+   "fotos/placeholder.jpg"
+  ],
+  "desc": "Placa De Vídeo Amd Rx 580 8gb Mougol Gddr5 2048sp Branca",
+  "source": "sem_foto",
+  "priceOverride": null,
+  "mlPriceOverride": null,
+  "added_at": "2026-09-29T16:32:08.668235"
  }
 }
