@@ -2522,10 +2522,15 @@
  "MONITOR-GAMER-GIGABYTE-CURVO-34-QHD-120HZ-GS34WQCA": {
   "name": "Monitor Gamer Gigabyte Curvo 34 QHD 120Hz GS34WQCA",
   "imgs": [
-   "fotos/placeholder.jpg"
+   "https://http2.mlstatic.com/D_712272-MLB115250025380_082026-F.jpg",
+   "https://http2.mlstatic.com/D_775424-MLB116653975651_082026-F.jpg",
+   "https://http2.mlstatic.com/D_971587-MLB115248787342_082026-F.jpg",
+   "https://http2.mlstatic.com/D_770210-MLB115248669476_082026-F.jpg",
+   "https://http2.mlstatic.com/D_724175-MLB115249995602_082026-O.webp",
+   "https://http2.mlstatic.com/D_812830-MLB115248463630_082026-F.jpg"
   ],
   "desc": "Monitor Gamer Gigabyte Curvo 34 QHD 120Hz GS34WQCA",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-18T16:44:56.578116"
