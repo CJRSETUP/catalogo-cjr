@@ -2368,13 +2368,19 @@
  "SMARTWATCH-HUAWEI-BAND-10": {
   "name": "Smartwatch Huawei Band 10",
   "imgs": [
-   "https://http2.mlstatic.com/D_NQ_NP_2X_772291-MLA100008466405_122025-O.webp",
-   "https://http2.mlstatic.com/D_NQ_NP_2X_634234-MLA108425688709_032026-O.webp",
-   "https://http2.mlstatic.com/D_NQ_NP_2X_630815-MLA108425390697_032026-O.webp",
-   "https://http2.mlstatic.com/D_NQ_NP_2X_833230-MLA108425748445_032026-O.webp"
+   "https://http2.mlstatic.com/D_772291-MLA100008466405_122025-O.webp",
+   "https://http2.mlstatic.com/D_634234-MLA108425688709_032026-O.webp",
+   "https://http2.mlstatic.com/D_630815-MLA108425390697_032026-F.jpg",
+   "https://http2.mlstatic.com/D_833230-MLA108425748445_032026-F.jpg",
+   "https://http2.mlstatic.com/D_856246-MLA108426156799_032026-F.jpg",
+   "https://http2.mlstatic.com/D_762657-MLA107689279378_032026-F.jpg",
+   "https://http2.mlstatic.com/D_828198-MLA108426216427_032026-F.jpg",
+   "https://http2.mlstatic.com/D_853223-MLA108425390757_032026-F.jpg",
+   "https://http2.mlstatic.com/D_689323-MLA108425688781_032026-F.jpg",
+   "https://http2.mlstatic.com/D_928077-MLA108425450917_032026-F.jpg"
   ],
   "desc": "Smartwatch Huawei Band 10",
-  "source": "sem_foto",
+  "source": "auto_ml",
   "priceOverride": null,
   "mlPriceOverride": null,
   "added_at": "2026-08-11T20:11:38.345635"
